@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/posenet/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/posenet/static/js/main.0d204fbc.chunk.js",
+    "main.js.map": "/posenet/static/js/main.0d204fbc.chunk.js.map",
+    "runtime-main.js": "/posenet/static/js/runtime-main.34befced.js",
+    "runtime-main.js.map": "/posenet/static/js/runtime-main.34befced.js.map",
+    "static/js/2.1379cae6.chunk.js": "/posenet/static/js/2.1379cae6.chunk.js",
+    "static/js/2.1379cae6.chunk.js.map": "/posenet/static/js/2.1379cae6.chunk.js.map",
+    "static/js/3.540ba9bc.chunk.js": "/posenet/static/js/3.540ba9bc.chunk.js",
+    "static/js/3.540ba9bc.chunk.js.map": "/posenet/static/js/3.540ba9bc.chunk.js.map",
+    "index.html": "/posenet/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/posenet/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1379cae6.chunk.js.LICENSE.txt": "/posenet/static/js/2.1379cae6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/posenet/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34befced.js",
+    "static/js/2.1379cae6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0d204fbc.chunk.js"
+  ]
+}
